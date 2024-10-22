@@ -1,6 +1,6 @@
 # OO2
 
-Ejercicios prácticos realizados durante la cursada de la materia "Orientado a Objetos 2" de mi facultad. (1er Semestre del año 2022)
+Ejercicios prácticos realizados durante la cursada de la materia "Orientado a Objetos 2" de mi facultad.
 
 Nota 1: Las prácticas contienen ejercicios resueltos para aprender, entender y ejercitar patrones de diseño (por lo tanto no le di hincapié a la implementación), además de refactoring y frameworks pero en menor medida.
 
